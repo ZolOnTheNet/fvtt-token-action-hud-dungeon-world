@@ -1,0 +1,32 @@
+{
+    "tokenActionHud": {
+      "template": {
+        "perso":"Personnage",
+        "carac":"Attributs",
+        "armor": "Armure",
+        "containers": "Containers",
+        "consumables": "Consommables",
+        "equipment": "Equipement",
+        "inventory": "Inventaire",
+        "item": "Objet",
+        "moves" : "Actions",
+        "weapons": "Armes",
+        "treasure": "Trésor",
+        "movesB" : "Actions de Base",
+        "movesD" : "Actions de Départ",
+        "movesA" : "Actions Avancées",
+        "movesS" : "Actions Spéciales",
+        "settings": {
+          "displayUnequipped": {
+            "hint": "Voir les objets non équipée dans les menus HUD",
+            "name": "Afficher les non équipés"
+          },
+          "ADW": {
+            "name":"Compatible ADW ?",
+            "hint":"active les fonctions lié à Advanced Dungeon World (ADW) comme les fortunes, dommages propres etc..."
+          }
+        }
+      }
+    }
+  }
+  

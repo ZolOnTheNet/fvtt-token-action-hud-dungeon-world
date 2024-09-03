@@ -1,0 +1,28 @@
+{
+  "tokenActionHud": {
+    "template": {
+      "armor": "Armor",
+      "containers": "Containers",
+      "consumables": "Consumables",
+      "equipment": "Equipment",
+      "inventory": "Inventory",
+      "item": "Item",
+      "weapons": "Weapons",
+      "treasure": "Treasure",
+      "movesB" : "Basics Moves",
+      "movesD" : "start Moves",
+      "movesA" : "Advanced Moves",
+      "movesS" : "Specials Moves",
+      "settings": {
+        "displayUnequipped": {
+          "hint": "Choose whether to display unequipped items on the HUD",
+          "name": "Display Unequipped"
+        },
+        "ADW": {
+          "name":"Compatible ADW ?",
+          "hint":"activate function link to Advanced Dungeon World (ADW) like point of fortune, own dammages  etc..."
+        }
+      }
+    }
+  }
+}
